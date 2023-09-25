@@ -2,7 +2,7 @@
 title: 'Tiger'
 description: 'All you need to know about Tigers'
 pubDate: 'sep 21 2023'
-heroImage: '/public/tigerBig.jpg'
+heroImage: 'src/assets/tigerBig.jpg'
 ---
 
 Tigers: The Kings and Queens of the Jungle
