@@ -1,0 +1,32 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<main>
+			<h1>🏞️ Hello, fellow nature entusiast!</h1>
+			<p>
+				Welcome to the serene embrace of Mother Nature, where the world awakens in all its breathtaking glory. Our journey begins amidst the symphony of rustling leaves, the gentle caress of the wind, and the vibrant hues of the natural world. Here, we invite you to embark on an exploration of the boundless beauty that surrounds us, to reconnect with the Earth's wonders, and to find solace in its tranquil embrace.
+			</p>
+			<p>
+				In this digital age, where screens dominate our lives, it's easy to forget the captivating allure of the great outdoors. But here, we bring nature to your fingertips, an oasis of inspiration just a click away. Explore the enchanting landscapes that stretch from rolling mountains to pristine beaches, dense forests to arid deserts. Our pages are your gateway to understanding the delicate ecosystems that support life as we know it.
+
+				Immerse yourself in the wisdom of ancient trees, each one bearing witness to centuries of history. Witness the dance of sunlight on rippling water, and be captivated by the kaleidoscope of colors that adorn meadows in bloom. Here, you'll uncover the stories of elusive wildlife, learn about sustainable living, and discover how we can protect the fragile balance of our planet.
+			</p>
+			<p>As you journey deeper into the heart of this nature sanctuary, we hope you feel a sense of belonging, a connection to something greater than yourself. Nature is not just a destination; it's a path to rejuvenation, inspiration, and reflection. It's a reminder of our responsibility to preserve and cherish the beauty that sustains us.
+
+			So, whether you're a seasoned explorer, a curious novice, or simply seeking a moment of serenity, our pages are your compass. Join us on this voyage of discovery, and together, let's celebrate the magnificence of the natural world. The wonders of nature await, and there's no better time to start exploring than now.
+			</p>			
+		</main>
+		<Footer />
+	</body>
+</html>
