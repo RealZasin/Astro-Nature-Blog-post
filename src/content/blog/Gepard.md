@@ -2,7 +2,7 @@
 title: 'Gepard'
 description: 'All you need to know about Gepards'
 pubDate: 'sep 24 2023'
-heroImage: 'src/assets/gepardBig.jpg'
+heroImage: 'public/images/gepardBig.jpg'
 ---
 
 Cheetahs: The Fastest Land Animals on Earth

@@ -2,7 +2,7 @@
 title: 'Black Panther'
 description: 'All you need to know about Black Panthers'
 pubDate: 'sep 23 2023'
-heroImage: 'src/assets/blackpanthernature.jpg'
+heroImage: 'public/images/blackpanthernature.jpg'
 ---
 
 Black Panthers: The Mystique of the Night

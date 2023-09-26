@@ -34,7 +34,7 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	background-image: url(src/assets/treeInMiddle.jpg);
+	background-image: url(public/images/treeInMiddle.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
