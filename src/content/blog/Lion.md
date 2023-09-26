@@ -2,7 +2,7 @@
 title: 'Lion'
 description: 'All you need to know about Lions'
 pubDate: 'sep 20 2023'
-heroImage: 'public/images/lionBig.jpg'
+heroImage: '/images/lionBig.jpg'
 ---
 
 Lions: The Kings of the Jungle
